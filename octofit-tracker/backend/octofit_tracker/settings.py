@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-q$a*cee*hek6^o8$40sy3cb8@e*_60k+*(6g71aib1q*+f!+ri
 DEBUG = True
 
 # Allow all hosts
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'skills-build-applications-w-copilot-agent-mode-8000.app.github.dev']
 
 
 # Application definition
